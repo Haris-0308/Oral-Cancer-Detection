@@ -1,1 +1,1 @@
-# oral-cancer-Detection
+# Oral-Cancer-Detection
